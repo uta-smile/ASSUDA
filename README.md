@@ -7,8 +7,7 @@ Code and data of [Exploring Robustness of Unsupervised Domain Adaptation in Sema
 - [GTA5 -> Cityscapes (VGG)](https://drive.google.com/open?id=15XjJOuLHPinOu4FtYJunIoMQnHiMgpYc) and [GTA5 -> Cityscapes (DeepLab)](https://drive.google.com/open?id=1OBvYVz2ND4ipdfnkhSaseT8yu2ru5n5l)
 - [SYNTHIA -> Cityscapes (VGG)](https://drive.google.com/open?id=1YlIHqLYTSL-JAGRLA8_9xDvOTnP3zVIs) and [SYNTHIA -> Cityscapes (DeepLab)](https://drive.google.com/open?id=1d7GxVhyN8HzEIPDeRIB3dRXTYzHI91ng)
 - [Cityscapes](https://www.cityscapes-dataset.com/)
-
-Perturbed test images in Cityscapes can be downloaded at: [PSPNet_Attack](https://drive.google.com/file/d/1iCNlxhlZLYRnyUuQll6JhST4YzBS2_hH/view?usp=sharing)
+- Perturbed test images: [PSPNet_Attack](https://drive.google.com/file/d/1iCNlxhlZLYRnyUuQll6JhST4YzBS2_hH/view?usp=sharing)
 
 ### Initial models
 - [VGG](https://web.eecs.umich.edu/~justincj/models/vgg16-00b39a1b.pth)
