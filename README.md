@@ -14,6 +14,8 @@ Code and data of [Exploring Robustness of Unsupervised Domain Adaptation in Sema
 - [DeepLab](https://drive.google.com/file/d/1TIrTmFKqEyf3pOKniv8-53m3v9SyBK0u/view)
 
 ### Training
+An example (SYNTHIA->Cityscapes with DeepLab):
+
 ```
 python main.py \
     --data-dir /path/to/synthia_deeplab \
@@ -35,6 +37,8 @@ python main.py \
 ```
 
 ### Evaluation 
+An example (SYNTHIA->Cityscapes with DeepLab):
+
 ```
 python evaluation.py \
     --data-dir-target /path/to/pspnet_attack/pspnet_fgsm_0.1 \
